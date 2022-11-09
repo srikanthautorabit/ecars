@@ -2,11 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": true,
+            "package": "ecars",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "ecars",
     "namespace": "SriGS",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "56.0"
+    "sourceApiVersion": "56.0",
+    "packageAliases": {
+        "ecars": "0Ho2x000000bldpCAA"
+    }
 }
