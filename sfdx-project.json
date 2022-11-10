@@ -20,7 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "56.0",
     "packageAliases": {
-        "ecars": "0Ho2x000000bldpCAA",
+        "ecars": "0Ho2x000000bldzCAA",
         "ecarsnew": "0Ho2x000000blduCAA"
     }
 }
