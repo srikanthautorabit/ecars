@@ -6,6 +6,13 @@
             "package": "ecars",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "ecarsnew",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "ecars",
@@ -13,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "56.0",
     "packageAliases": {
-        "ecars": "0Ho2x000000bldpCAA"
+        "ecars": "0Ho2x000000bldpCAA",
+        "ecarsnew": "0Ho2x000000blduCAA"
     }
 }
